@@ -1,0 +1,16 @@
+# Use the official timm package; the duplicate vendored source was removed.
+# Select the official CPU/CUDA PyTorch wheel index for your machine.
+timm==0.9.12
+torch==2.5.1
+torchvision==0.20.1
+numpy==1.26.4
+scipy==1.14.1
+pandas==2.2.3
+Pillow==10.4.0
+matplotlib==3.9.4
+ml-collections==1.0.0
+tqdm==4.67.1
+tensorboard==2.18.0
+PyYAML==6.0.2
+huggingface-hub==0.26.2
+safetensors==0.4.5
